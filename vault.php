@@ -114,10 +114,10 @@
     <script src="js/bootstrap.min.js"></script>
 
 <?php
-                      $hostname= "sql108.liveblog365.com";
-                      $username= "lblog_31659286";
+                      $hostname= "http://sql6.freesqldatabase.com/";
+                      $username= "sql6507165";
                       $password= "hyder1234";
-                      $database= "lblog_31659286_1";
+                      $database= "ZAVjXJperV";
                         //Establish Connection
                         $conn= mysqli_connect($hostname, $username, $password, $database);
 
